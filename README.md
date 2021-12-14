@@ -6,10 +6,10 @@ A website that specializes in SEO, Online Reputation Management and Social Media
 ## Built With
 **HTML**
 
--Added title in code for SEO
--Added id tag in content to link with header
--Added alt to img's
--Changed footer and ***added link for a future privacy policy page***
+*Added title in code for SEO
+*Added id tag in content to link with header
+*Added alt to img's
+*Changed footer and ***added link for a future privacy policy page***
 
 **CSS**-
 Combined css code where applicable to make code cleaner
@@ -18,4 +18,5 @@ Combined css code where applicable to make code cleaner
 
 
 ##### Contribution
-Made with :heart: by Joshua Pace
+*Made with :heart: by Joshua Pace
+*Xandromus Xander Rapstine
