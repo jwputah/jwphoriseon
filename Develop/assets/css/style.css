@@ -140,7 +140,7 @@ p {
 }
 
 .footer {
-    padding: 30px;
+    padding: 40px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
@@ -148,4 +148,8 @@ p {
 
 .footer h2 {
     font-size: 20px;
+}
+
+.footer a {
+    color: #0072bb;
 }
