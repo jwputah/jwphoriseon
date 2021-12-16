@@ -12,7 +12,8 @@ Added alt to img's <br>
 Changed footer and <br>
 ***added link for a future privacy policy page***
 
-**CSS**-
+**CSS**
+
 Combined css code where applicable to make code cleaner
 
 ## Website
