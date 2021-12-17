@@ -24,7 +24,7 @@ body {
     color: #d9dcd6;
 }
 
-.header div {
+.header nav {
     padding-top: 20px;
     margin-right: 20px;
     float: right;
@@ -32,18 +32,16 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
-    list-style-type: none;
-}
-
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
+    color: #ffffff;
+    text-decoration: none;
 }
 
 a {
     color: #ffffff;
-    text-decoration: none;
+    text-decoration: none;   
 }
 
 p {
@@ -69,17 +67,16 @@ p {
     margin-left: 25px;
 }
 
-.content {
+article {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.benefits {
+aside {
     margin-right: 20px;
     margin-bottom: 32px;
     padding: 20px;
-    clear: both;
     float: right;
     width: 20%;
     height: 100%;
@@ -88,12 +85,12 @@ p {
     color: #ffffff;
 }
 
-.benefits div {
+aside div {
     margin-bottom: 52px;
     text-align: center;
 }
 
-.benefits img {
+aside img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -126,16 +123,16 @@ p {
     color: #ffffff;
 }
 
-.content img {
+article img {
     max-height: 200px;
 }
 
-.content h2 {
+article h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.content p {
+article p {
     line-height: 1.5;
 }
 
