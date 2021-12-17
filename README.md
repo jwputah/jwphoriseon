@@ -19,7 +19,7 @@ Combined css code where applicable to make code cleaner
 
 **Screenshot**
 
-![Screenshot](images/Horiseon20%Home20%Page.html)
+![Screenshot](images/Horiseon20%Home20%Page.png)
 
 
 ## Deployed Page
