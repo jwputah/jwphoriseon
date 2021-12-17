@@ -19,7 +19,8 @@ Combined css code where applicable to make code cleaner
 
 **Screenshot**
 
-![Screenshot](images/Horiseon20%Home20%Page.png)
+![horiseonhomepage](https://user-images.githubusercontent.com/94497268/146482679-ddfaa6ed-1a76-46b4-89df-acaf9b88dc19.png)
+
 
 
 ## Deployed Page
