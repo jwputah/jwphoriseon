@@ -19,7 +19,7 @@ Combined css code where applicable to make code cleaner
 
 **Screenshot**
 
-![horiseonhomepage](https://user-images.githubusercontent.com/94497268/146482679-ddfaa6ed-1a76-46b4-89df-acaf9b88dc19.png)
+![Horiseon Home Page](https://user-images.githubusercontent.com/94497268/146627898-56d3e04a-4d88-4425-9f26-70b4ca12e47e.png)
 
 
 
