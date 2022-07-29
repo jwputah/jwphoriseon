@@ -6,12 +6,12 @@ A website that specializes in SEO, Online Reputation Management and Social Media
 ## Built With
 **HTML**
 
-Added title for SEO optimization <br>
-Added id tag in content to link with header <br>
-Added alt attribution to img's <br>
-Added semantic tags nav, sec and aside <br>
-Changed footer and <br>
-***added link for a future privacy policy page***
+* Added title for SEO optimization
+* Added id tag in content to link with header 
+* Added alt attribution to img's
+* Added semantic tags nav, sec and aside 
+* Changed footer and 
+* Added privacy policy page
 
 **CSS**
 
@@ -23,9 +23,7 @@ Combined css code where applicable to make code cleaner
 
 
 
-## Deployed Page
-
-##### https://jwputah.github.io/jwphoriseon/
+[Deployed Application](https://jwputah.github.io/jwphoriseon/)
 
 
 ##### Contribution
